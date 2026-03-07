@@ -3,11 +3,12 @@
 ###
 
 <p align="left">
-I am Prithu Verma, a Computer Science student with a focus on Data Science and Machine Learning.<br><br>
+<p align="left">
+I am Prithu Verma, a Computer Science student currently seeking internship opportunities as a Data Analyst.<br><br>
 
-I primarily work with Python, using libraries such as NumPy for numerical computing and Pandas for data analysis, data cleaning, and exploratory analysis. My work involves preparing raw datasets, building data processing pipelines, performing statistical analysis, and developing machine learning models.<br><br>
+I work primarily with Python, using libraries such as NumPy for numerical computing and Pandas for data analysis, data cleaning, and exploratory data analysis. My work involves transforming raw datasets, building data processing pipelines, performing statistical analysis, and extracting insights from data.<br><br>
 
-I am currently seeking internship opportunities in Data Science or Machine Learning where I can contribute to real-world data workflows, model development, and data-driven decision systems.
+I am particularly interested in Data Science and Machine Learning and aim to expand my skills in these areas by working on real-world data problems and contributing to data-driven decision making.
 </p>
 
 <br>
@@ -18,6 +19,7 @@ I am currently seeking internship opportunities in Data Science or Machine Learn
 LinkedIn: <a href="YOUR_LINKEDIN_LINK">YOUR_LINKEDIN_LINK</a><br>
 Kaggle: <a href="YOUR_KAGGLE_LINK">YOUR_KAGGLE_LINK</a>
 </p>
+
 ###
 
 <div align="center">
