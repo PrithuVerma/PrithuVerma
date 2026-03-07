@@ -2,8 +2,22 @@
 
 ###
 
-<p align="left">I’m Prithu Verma — a Computer Science student specializing in Data Science and Machine Learning.<br><br>I work primarily with Python, leveraging NumPy for numerical computing and Pandas for data manipulation, cleaning, and exploratory data analysis. My focus is on building data pipelines, performing statistical analysis, and developing machine learning models from raw datasets.<br><br>I’m actively seeking internship opportunities where I can contribute to real-world ML workflows, model development, and data-driven decision systems.</p>
+<p align="left">
+I am Prithu Verma, a Computer Science student with a focus on Data Science and Machine Learning.<br><br>
 
+I primarily work with Python, using libraries such as NumPy for numerical computing and Pandas for data analysis, data cleaning, and exploratory analysis. My work involves preparing raw datasets, building data processing pipelines, performing statistical analysis, and developing machine learning models.<br><br>
+
+I am currently seeking internship opportunities in Data Science or Machine Learning where I can contribute to real-world data workflows, model development, and data-driven decision systems.
+</p>
+
+<br>
+
+<h3 align="left">Connect with me</h3>
+
+<p align="left">
+LinkedIn: <a href="YOUR_LINKEDIN_LINK">YOUR_LINKEDIN_LINK</a><br>
+Kaggle: <a href="YOUR_KAGGLE_LINK">YOUR_KAGGLE_LINK</a>
+</p>
 ###
 
 <div align="center">
