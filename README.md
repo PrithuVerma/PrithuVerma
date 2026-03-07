@@ -10,7 +10,7 @@ I am particularly interested in Data Science and Machine Learning and aim to exp
 </p>
 <br>
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -42,7 +42,7 @@ I am particularly interested in Data Science and Machine Learning and aim to exp
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Socials</h2>
 
 <p align="left">
 LinkedIn: <a href="YOUR_LINKEDIN_LINK">https://www.linkedin.com/in/prithuverma/</a><br>
