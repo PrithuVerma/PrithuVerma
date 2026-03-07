@@ -10,12 +10,7 @@ I am particularly interested in Data Science and Machine Learning and aim to exp
 </p>
 <br>
 
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-LinkedIn: <a href="YOUR_LINKEDIN_LINK">https://www.linkedin.com/in/prithuverma/</a><br>
-Kaggle: <a href="YOUR_KAGGLE_LINK">https://www.kaggle.com/lamskdna</a>
-</p>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
@@ -47,26 +42,12 @@ Kaggle: <a href="YOUR_KAGGLE_LINK">https://www.kaggle.com/lamskdna</a>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PrithuVerma&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
-</div>
+<h3 align="left">Connect with me</h3>
 
-###
+<p align="left">
+LinkedIn: <a href="YOUR_LINKEDIN_LINK">https://www.linkedin.com/in/prithuverma/</a><br>
+Kaggle: <a href="YOUR_KAGGLE_LINK">https://www.kaggle.com/lamskdna</a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrithuVerma/PrithuVerma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrithuVerma/PrithuVerma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrithuVerma/PrithuVerma/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
-<div align="center">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
